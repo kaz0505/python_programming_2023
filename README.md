@@ -1,1 +1,3 @@
-# python_programming_2023
+# ロボティクス応用・システム制御応用 Pythonプログラミング 2023
+
+
